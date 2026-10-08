@@ -251,4 +251,4 @@ This repository serves as the official landing page for KIDO'Z. The software is 
 **Get the most recent version of KIDO'Z today!**
 
 ---
-**Last updated:** 2026-10-07 23:28:14 UTC
+**Last updated:** 2026-10-08 04:53:11 UTC
